@@ -8,9 +8,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.mediaocean.onlineretailstore.domain.Category;
-import com.mediaocean.onlineretailstore.domain.CategoryA;
 import com.mediaocean.onlineretailstore.domain.Cost;
 import com.mediaocean.onlineretailstore.domain.Product;
 import com.mediaocean.onlineretailstore.service.CalculateBill;

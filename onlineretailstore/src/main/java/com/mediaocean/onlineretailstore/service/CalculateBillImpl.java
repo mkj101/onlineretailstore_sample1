@@ -4,7 +4,6 @@ import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.mediaocean.onlineretailstore.domain.Category;
 import com.mediaocean.onlineretailstore.domain.Cost;
 import com.mediaocean.onlineretailstore.domain.Product;
 
