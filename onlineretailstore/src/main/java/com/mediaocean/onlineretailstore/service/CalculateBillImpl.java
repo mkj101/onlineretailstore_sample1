@@ -22,9 +22,9 @@ public class CalculateBillImpl implements CalculateBill{
 			if(c.equals("A")){
 				salesTax = productPrice * .1;
 			}else if(c.equals("B")){
-				salesTax = productPrice * .1;
+				salesTax = productPrice * .2;
 			}else if(c.equals("C")){
-				salesTax = productPrice * .1;
+				salesTax = productPrice * 1;
 			}
 			totalCost+=productPrice+salesTax;
 			totalSalesTax +=salesTax;
