@@ -10,8 +10,9 @@ public class OnlineretailstoreApplication {
 	public static void main(String[] args) {
 		SpringApplication app = new SpringApplication(OnlineretailstoreApplication.class);
 		Environment env = app.run(args).getEnvironment();
-		
 		System.out.println("Starting application..");
+		
+		
 		
 	}
 }
